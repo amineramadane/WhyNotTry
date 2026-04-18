@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  WhyNotTry
 //
-//  Created by Amine Ramadane on 18/4/2026.
+//  Created by ABDELHAK AOUZALI on 18/4/2026.
 //
 
 import SwiftUI
